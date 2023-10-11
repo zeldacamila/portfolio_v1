@@ -12,4 +12,4 @@ npm create astro@latest -- --template portfolio
 
 ## 👀 Want to learn more?
 
-Feel free to check [the Astro documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Feel free to check [the Astro documentation](https://docs.astro.build) or jump into the [Discord server](https://astro.build/chat).
